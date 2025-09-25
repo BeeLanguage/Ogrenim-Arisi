@@ -1,4 +1,4 @@
-# Öğrenim Arısı: YZ Çalışma Arkadaşı ve Sınav Ustası
+# Öğrenim Arısı: Yapay Zeka Çalışma Arkadaşı ve Sınav Ustası
 
 ## Hakkında
 
@@ -15,6 +15,13 @@ Kişiselleştirilmiş Destek: Her öğrencinin özel ihtiyaçlarına ve sorular�
 ## Kurulum
 
 ---
+
+## Takım
+
+*   **[Arda Kahraman/arda-kahraman]**: Model Sorumlusu
+*   **[Bengisu Yılmaz/github-username]**: Veriseti Sorumlusu
+*   **[Elif Arabacı/github-username]**: Ar/Ge Sorummlusu
+*   **[Mustafa Berk Keskin/GitHub Handle]**: Grup Kaptanı
 
 ## Lisans
 
