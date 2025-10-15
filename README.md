@@ -18,10 +18,10 @@ Kişiselleştirilmiş Destek: Her öğrencinin özel ihtiyaçlarına ve sorular�
 
 ## Takım
 
-*   **[Arda Kahraman/arda-kahraman]**: Model Sorumlusu
-*   **[Bengisu Yılmaz/github-username]**: Veriseti Sorumlusu
-*   **[Elif Arabacı/github-username]**: Ar/Ge Sorummlusu
-*   **[Mustafa Berk Keskin/GitHub Handle]**: Grup Kaptanı
+*   **[Arda Kahraman / arda-kahraman]**: Model Sorumlusu
+*   **[Bengisu Yılmaz / Bngsuyy]**: Veriseti Sorumlusu
+*   **[Elif Arabacı / Elifa13]**: Ar/Ge Sorummlusu
+*   **[Mustafa Berk Keskin / MberkKeskin]**: Grup Kaptanı
 
 ## Lisans
 
